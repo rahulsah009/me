@@ -153,5 +153,5 @@ This portfolio template is ready to use and easy to customize:
 
 <p align="center">
   <strong>💜 Made with passion and purple theme 💜</strong><br>
-  <em>© 2025 Himansh Sharma. All rights reserved.</em>
+  <em>© 2025 Rahul Kumar Sah. All rights reserved.</em>
 </p>
